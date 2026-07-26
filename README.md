@@ -38,23 +38,18 @@ Each day includes something new:
 
 # 🎯 Goals
 
-✅ Become highly proficient with Claude AI
-
-✅ Improve prompt engineering skills
-
-✅ Build AI-powered projects
-
-✅ Learn automation workflows
-
-✅ Document daily progress publicly
-
-✅ Create a valuable AI portfolio
+- ✅ Become highly proficient with Claude AI
+- ✅ Improve prompt engineering skills
+- ✅ Build AI-powered projects
+- ✅ Learn automation workflows
+- ✅ Document daily progress publicly
+- ✅ Create a valuable AI portfolio
 
 ---
 
 # 📂 Repository Structure
 
-```
+```text
 60-day-claude-challenge/
 │
 ├── Day-01/
@@ -70,22 +65,68 @@ Each day includes something new:
 
 ---
 
-# 📅 Progress Tracker
+# 📅 60-Day Challenge Tracker
 
-| Day | Status | Topic |
-|------|--------|-------|
-| Day 01 | ✅ | Completed |
-| Day 02 | ✅ | Completed |
-| Day 03 | ✅ | Completed |
-| Day 04 | ⏳ | In Progress |
-| ... | ... | ... |
-| Day 60 | 🎯 | Goal |
+### 🚀 Progress
+
+```text
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 0%
+
+0 / 60 Days Completed
+```
+
+| 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+
+| 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+
+| 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+
+| 31 | 32 | 33 | 34 | 35 | 36 | 37 | 38 | 39 | 40 |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+
+| 41 | 42 | 43 | 44 | 45 | 46 | 47 | 48 | 49 | 50 |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+
+| 51 | 52 | 53 | 54 | 55 | 56 | 57 | 58 | 59 | 60 |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+
+### Legend
+
+- ⬜ Not Started
+- 🟨 In Progress
+- ✅ Completed
+- 🔥 Milestone
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muskankhan95&theme=tokyo-night&hide_border=true" width="100%">
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Muskankhan95&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 # 🛠 What You'll Find Here
 
-### 🧠 Prompt Engineering
+## 🧠 Prompt Engineering
 
 - Advanced prompting
 - Role prompting
@@ -93,9 +134,7 @@ Each day includes something new:
 - Chain of thought
 - Prompt optimization
 
----
-
-### 🤖 Claude AI
+## 🤖 Claude AI
 
 - Claude Features
 - Claude Projects
@@ -103,20 +142,16 @@ Each day includes something new:
 - Best Practices
 - AI Collaboration
 
----
-
-### 🚀 Mini Projects
+## 🚀 Mini Projects
 
 - AI Apps
 - Productivity Tools
 - Automation Scripts
 - Real-world Use Cases
 
----
+## 📖 Daily Learnings
 
-### 📖 Daily Learnings
-
-Every day contains
+Every day contains:
 
 - Notes
 - Examples
@@ -143,7 +178,7 @@ Every day contains
 
 Consistency beats intensity.
 
-This repository serves as
+This repository serves as:
 
 - 📚 My AI learning journal
 - 💼 Portfolio for recruiters
@@ -164,12 +199,12 @@ This repository serves as
 
 # ⭐ Future Plans
 
-- Build AI Agents
-- Claude + APIs
-- Claude + Python
-- Claude + JavaScript
-- AI Automation Projects
-- Open Source Contributions
+- 🤖 Build AI Agents
+- 🔌 Claude + APIs
+- 🐍 Claude + Python
+- ⚡ Claude + JavaScript
+- 🚀 AI Automation Projects
+- 🌍 Open Source Contributions
 
 ---
 
@@ -183,31 +218,23 @@ If you have ideas, improvements, or interesting Claude prompts, feel free to ope
 
 # 📊 Challenge Philosophy
 
-> Learn.
->
-> Build.
->
-> Share.
->
-> Improve.
->
-> Repeat.
+> **Learn. Build. Share. Improve. Repeat.**
 
 ---
 
 <div align="center">
 
-## 🌟 Let's Connect
+## 🌟 Support This Journey
 
-If you enjoy this repository,
+If you like this repository,
 
-⭐ Star the repo
+⭐ Star it
 
 🍴 Fork it
 
-📢 Share it with others
+💬 Share it
 
-and join me on this 60-day AI journey!
+🚀 Follow the journey
 
 ---
 
