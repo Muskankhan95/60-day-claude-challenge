@@ -65,58 +65,6 @@ Each day includes something new:
 
 ---
 
-# 📅 60-Day Challenge Tracker
-
-### 🚀 Progress
-
-```text
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 0%
-
-0 / 60 Days Completed
-```
-
-| 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 |
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-
-| 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-
-| 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-
-| 31 | 32 | 33 | 34 | 35 | 36 | 37 | 38 | 39 | 40 |
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-
-| 41 | 42 | 43 | 44 | 45 | 46 | 47 | 48 | 49 | 50 |
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-
-| 51 | 52 | 53 | 54 | 55 | 56 | 57 | 58 | 59 | 60 |
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-
-### Legend
-
-- ⬜ Not Started
-- 🟨 In Progress
-- ✅ Completed
-- 🔥 Milestone
-
----
-
-# 📈 GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muskankhan95&theme=tokyo-night&hide_border=true" width="100%">
-</p>
-
----
-
-# 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Muskankhan95&theme=tokyonight&hide_border=true" />
@@ -240,6 +188,6 @@ If you like this repository,
 
 ### 🚀 Building with Claude AI — One Day at a Time.
 
-**Made with ❤️ by Muskan Khan**
+**Made by Muskan Khan**
 
 </div>
