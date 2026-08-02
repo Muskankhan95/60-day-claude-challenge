@@ -6,7 +6,7 @@
 ---
 
 ## Recommended Primary Model
-### 🟣 Claude Sonnet 5
+### 🟣 Claude Sonnet  5
 
 For a daily-use student juggling coding, learning, research, and content creation, **Sonnet 5** is your workhorse model. It's fast enough for daily back-and-forth, smart enough for real coding and research work, and far more cost/usage-efficient than Opus for high-frequency use.
 
